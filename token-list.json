@@ -1,24 +1,22 @@
 {
-  "name": "DeFi Kitchen",
-  "logoURI": "https://hulk.finance/static/media/logo-hulk-circle.60201fec.svg",
-  "keywords": [
-    "compound",
-    "defi"
-  ],
-  "timestamp": "2020-09-03T12:37:57.000+00:00",
-  "tokens": [
-    {
-      "chainId": 1,
-      "address": "0xE41d2489571d322189246DaFA5ebDe1F4699F498",
-      "name": "HULK",
-      "symbol": "HULK",
-      "decimals": 18,
-      "logoURI": "https://hulk.finance/static/media/logo-hulk-circle.60201fec.svg"
-    },
-  ],
-  "version": {
-    "major": 1,
-    "minor": 0,
-    "patch": 0
-  }
+	"name": "DeFi Kitchen",
+	"logoURI": "https://hulk.finance/static/media/logo-hulk-circle.60201fec.svg",
+	"keywords": [
+		"compound",
+		"defi"
+	],
+	"timestamp": "2020-09-03T12:37:57.000+00:00",
+	"tokens": [{
+		"chainId": 1,
+		"address": "0xE41d2489571d322189246DaFA5ebDe1F4699F498",
+		"name": "HULK",
+		"symbol": "HULK",
+		"decimals": 18,
+		"logoURI": "https://hulk.finance/static/media/logo-hulk-circle.60201fec.svg"
+	}],
+	"version": {
+		"major": 1,
+		"minor": 0,
+		"patch": 0
+	}
 }
