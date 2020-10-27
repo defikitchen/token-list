@@ -1,9 +1,12 @@
 {
-	"name": "DeFi Kitchen",
+	"name": "HULK",
 	"logoURI": "https://hulk.finance/static/media/logo-hulk-circle.60201fec.svg",
 	"keywords": [
-		"compound",
-		"defi"
+		"hulk",
+		"defi",
+		"swap",
+		"stake",
+		"farm"
 	],
 	"timestamp": "2020-09-03T12:37:57.000+00:00",
 	"tokens": [
@@ -14,11 +17,27 @@
 			"symbol": "HULK",
 			"decimals": 18,
 			"logoURI": "https://hulk.finance/static/media/logo-hulk-circle.60201fec.svg"
+		},
+		{
+			"chainId": 1,
+			"address": "0x6a6c2ada3ce053561c2fbc3ee211f23d9b8c520a",
+			"name": "TON",
+			"symbol": "TON",
+			"decimals": 18,
+			"logoURI": "https://toncommunity.org/static/media/logo2.b155662f.png"
+		},
+		{
+			"chainId": 1,
+			"address": "0x674c6ad92fd080e4004b2312b45f796a192d27a0",
+			"name": "USDN",
+			"symbol": "USDN",
+			"decimals": 18,
+			"logoURI": "https://hulk.finance/static/media/logo-usdn.c7dd9543.png"
 		}
 	],
 	"version": {
 		"major": 1,
-		"minor": 1,
+		"minor": 2,
 		"patch": 0
 	}
 }
